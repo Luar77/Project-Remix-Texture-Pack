@@ -1,5 +1,5 @@
 # Project Remix Texture Pack (version 1.0.0-alpha)
-After over 13 months of work between 33 people, we present a complete design revamp of every icon in the game. Available in high and medium quality.
+After over 14 months of work between 33 people, we present a complete design revamp of every icon in the game. Available in high and medium quality.
 
 Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, respectively, to help cover hosting costs of the project.
 
@@ -32,7 +32,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - cyanflower           (69 icons, 4 of those being collabs) + 4 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- Sharkcrome           (63 icons, 3 of those being collabs) + 9 collabs
+- Sharkcrome           (63 icons, 4 of those being collabs) + 9 collabs
 	- [@Sharkcrome](https://www.youtube.com/@Sharkcrome) on YouTube
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
 - Aleiz21              (66 icons, 7 of those being collabs) + 4 collabs
@@ -50,7 +50,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
 - CraZyboy6484         (31 icons) + 1 collab
 	- [liamlocoman](https://liamlocoman.newgrounds.com) on Newgrounds
-- Dibbj                (28 icons, 3 of those being collabs) + 8 collabs
+- Dibbj                (28 icons, 3 of those being collabs) + 9 collabs
 - Sorao                (24 icons, 5 of those being collabs) + 3 collabs
 - AngelozDD            (19 icons, 3 of those being collabs) + 9 collabs
 - AlexanderX1ta        (20 icons, 1 of those being collabs) + 2 collabs
@@ -1866,7 +1866,6 @@ ship 32:
 
 ship 33:
 - By Dibbj.
-- Direct remake, with a more sharp and technological approach.
 
 ship 34:
 - By Exetric.
@@ -2251,7 +2250,6 @@ ship 140:
 
 ship 141:
 - By Dibbj.
-- Direct, more streamlined redesign.
 
 ship 142:
 - By Luar77.
@@ -2290,7 +2288,6 @@ ship 151:
 
 ship 152:
 - By Dibbj.
-- Reshaped, less clunky.
 
 ship 153:
 - By TheRare5.
@@ -2555,7 +2552,6 @@ ball 61:
 
 ball 62:
 - By AsRenCL.
-- Insane rework too [fixme].
 
 ball 63:
 - By Sharkcrome.
@@ -2884,6 +2880,7 @@ ufo 39:
 
 ufo 40:
 - By Sharkcrome.
+- In collaboration with Dibbj.
 
 ufo 41:
 - By Aleiz21.
@@ -3085,7 +3082,6 @@ ufo 97:
 
 ufo 98:
 - By Dibbj.
-- Reshaped with a sharper and more menacing look.
 
 ufo 99:
 - By J3anC4rlo.
@@ -3208,7 +3204,7 @@ ufo 135:
 
 ufo 136:
 - By JigglypuffGD.
-- Loosely based around the original concept for this icon by ElectricTaco, of turning it into a typewriter. The dome is to simulate a folded over paper corner.
+- Loosely based around the original concept for this icon by Vekhi, of turning it into a typewriter. The dome is to simulate a folded over paper corner.
 
 ufo 137:
 - By bugpesto.
