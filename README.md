@@ -1,5 +1,5 @@
-# Project Remix Texture Pack (version 1.0.0-alpha)
-Texture pack collab, featuring over 30 people, that took over 14 months to finish.
+# Project Remix Texture Pack (version 1.0.0-beta)
+Texture pack collab, featuring over 30 people, that took over 15 months to finish.
 Every icon in the game has been remade from scratch in the styles of everyone who participated.
 
 This was hosted on the [Master's World discord server](https://discord.gg/tFUyJw5), with organization provided via the Jones Bot by Luar77 (which took just as long to develop), and quality assurance/project management by the admin team (ML500, Luar77, Sorao).
