@@ -1,5 +1,5 @@
-# Project Remix Texture Pack (version 1.0.0-alpha)
-After over 14 months of work between 33 people, we present a complete design revamp of every icon in the game. Available in high and medium quality.
+# Project Remix Texture Pack (version 1.0.0-beta)
+After over 15 months of work between 33 people, we present a complete design revamp of every icon in the game. Available in high and medium quality.
 
 Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, respectively, to help cover hosting costs of the project.
 
