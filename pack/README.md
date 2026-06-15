@@ -84,6 +84,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 
 ## Other credits
 - In-game credits social media logo icons by Bugpesto and Luar77.
+- Icon Garage button by KevgenGD.
 - Title and credits font by Exetric.
 The rest of the assets that aren't from the base game were made/edited by Luar77.
 
@@ -234,7 +235,7 @@ cube 41:
 
 cube 42:
 - By Sharkcrome.
-- Refrence to the infamous Creeper from Minecraft.
+- Redesigned to resemble the full Creeper from Minecraft, not just the face of it.
 
 cube 43:
 - By cyanflower.
@@ -1315,7 +1316,7 @@ cube 359:
 
 cube 360:
 - By Sharkcrome.
-- Clap Trap : Scanning Scanning Scanning...
+- Clap Trap from Borderlands.
 
 cube 361:
 - By ML500.
@@ -1895,6 +1896,7 @@ ship 40:
 
 ship 41:
 - By Sharkcrome.
+- Shipchrome.
 
 ship 42:
 - By Aleiz21.
@@ -2265,6 +2267,7 @@ ship 144:
 
 ship 145:
 - By Sharkcrome.
+- Tactical Nuke! INCOMING!.
 
 ship 146:
 - By JigglypuffGD.
@@ -2760,6 +2763,7 @@ ufo 4:
 
 ufo 5:
 - By Sharkcrome.
+- In collaboration with Exetric.
 
 ufo 6:
 - By RetroAdvance64.
@@ -2880,7 +2884,8 @@ ufo 39:
 
 ufo 40:
 - By Sharkcrome.
-- In collaboration with Dibbj.
+- Reference to an enemy from the TD game Radiant Defense.
+  In collaboration with Dibbj.
 
 ufo 41:
 - By Aleiz21.
@@ -3383,6 +3388,7 @@ wave 39:
 
 wave 40:
 - By Sharkcrome.
+- Redesigned to resemble a squid.
 
 wave 41:
 - By RetroAdvance64.
