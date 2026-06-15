@@ -92,5 +92,6 @@ Apparently some people were really insisting on helping with the development cos
 
 ## Other credits
 - In-game credits social media logo icons by Bugpesto and Luar77.
+- Icon Garage button by KevgenGD.
 - Title and credits font by Exetric.
 The rest of the assets that aren't from the base game were made/edited by Luar77.
