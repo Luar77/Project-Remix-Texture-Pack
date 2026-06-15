@@ -24,13 +24,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{-6,0}</string>
+				<string>{-5.5,0}</string>
 				<key>spriteSize</key>
-				<string>{104,50}</string>
+				<string>{103,42}</string>
 				<key>spriteSourceSize</key>
 				<string>{160,120}</string>
 				<key>textureRect</key>
-				<string>{{128,0},{104,50}}</string>
+				<string>{{128,0},{103,42}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
@@ -61,7 +61,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/dart_05-uhd.png</string>
 			<key>size</key>
-			<string>{178,169}</string>
+			<string>{170,169}</string>
 			<key>textureFileName</key>
 			<string>icons/dart_05-uhd.png</string>
 		</dict>
