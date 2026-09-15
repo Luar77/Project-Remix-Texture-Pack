@@ -3044,7 +3044,7 @@
                                                                                                 "sprite": "GJ_square04.png",
                                                                                                 "popup-size": {
                                                                                                     "width": 336,
-                                                                                                    "height": 190
+                                                                                                    "height": 150
                                                                                                 },
                                                                                                 "show": true
                                                                                             },
@@ -3057,7 +3057,7 @@
                                                                                                             "ignore-anchor-pos": false,
                                                                                                             "content-size": {
                                                                                                                 "width": 336,
-                                                                                                                "height": 190
+                                                                                                                "height": 150
                                                                                                             },
                                                                                                             "position": {
                                                                                                                 "anchor": "center",
@@ -3076,7 +3076,7 @@
                                                                                                                         "base-scale": 1.4,
                                                                                                                         "position": {
                                                                                                                             "x": 281,
-                                                                                                                            "y": 125
+                                                                                                                            "y": 85
                                                                                                                         }
                                                                                                                     },
                                                                                                                     "event": {
@@ -3105,140 +3105,6 @@
                                                                                                                             }
                                                                                                                         ]
                                                                                                                     }
-                                                                                                                },
-                                                                                                                {
-                                                                                                                    "type": "CCMenuItemSpriteExtra",
-                                                                                                                    "id": "link-6-YouTube",
-                                                                                                                    "attributes": {
-                                                                                                                        "scale": 0.4,
-                                                                                                                        "base-scale": 0.4,
-                                                                                                                        "content-size": {
-                                                                                                                            "width": 500,
-                                                                                                                            "height": 50
-                                                                                                                        },
-                                                                                                                        "anchor-point": {
-                                                                                                                            "x": 0,
-                                                                                                                            "y": 0.5
-                                                                                                                        },
-                                                                                                                        "position": {
-                                                                                                                            "x": 10,
-                                                                                                                            "y": 40
-                                                                                                                        }
-                                                                                                                    },
-                                                                                                                    "children": {
-                                                                                                                        "new": [
-                                                                                                                            {
-                                                                                                                                "type": "CCLabelBMFont",
-                                                                                                                                "id": "username-6-YouTube",
-                                                                                                                                "attributes": {
-                                                                                                                                    "text": "@cyanflower",
-                                                                                                                                    "scale": 2,
-                                                                                                                                    "anchor-point": {
-                                                                                                                                        "x": 0,
-                                                                                                                                        "y": 0.5
-                                                                                                                                    },
-                                                                                                                                    "position": {
-                                                                                                                                        "x": 55,
-                                                                                                                                        "y": 25
-                                                                                                                                    },
-                                                                                                                                    "color": {
-                                                                                                                                        "r": 0,
-                                                                                                                                        "g": 195,
-                                                                                                                                        "b": 255
-                                                                                                                                    }
-                                                                                                                                }
-                                                                                                                            },
-                                                                                                                            {
-                                                                                                                                "type": "CCSprite",
-                                                                                                                                "id": "logo-6-YouTube",
-                                                                                                                                "attributes": {
-                                                                                                                                    "sprite": "ui/logo_icons/youtube200x.png",
-                                                                                                                                    "anchor-point": {
-                                                                                                                                        "x": 0,
-                                                                                                                                        "y": 0.5
-                                                                                                                                    },
-                                                                                                                                    "position": {
-                                                                                                                                        "x": 0,
-                                                                                                                                        "y": 25
-                                                                                                                                    }
-                                                                                                                                }
-                                                                                                                            }
-                                                                                                                        ]
-                                                                                                                    },
-                                                                                                                    "event": {
-                                                                                                                        "on-activate": {
-                                                                                                                            "attributes": {
-                                                                                                                                "link": "https://www.youtube.com/@cyanflower"
-                                                                                                                            }
-                                                                                                                        }
-                                                                                                                    }
-                                                                                                                },
-                                                                                                                {
-                                                                                                                    "type": "CCMenuItemSpriteExtra",
-                                                                                                                    "id": "link-6-Bluesky",
-                                                                                                                    "attributes": {
-                                                                                                                        "scale": 0.4,
-                                                                                                                        "base-scale": 0.4,
-                                                                                                                        "content-size": {
-                                                                                                                            "width": 500,
-                                                                                                                            "height": 50
-                                                                                                                        },
-                                                                                                                        "anchor-point": {
-                                                                                                                            "x": 0,
-                                                                                                                            "y": 0.5
-                                                                                                                        },
-                                                                                                                        "position": {
-                                                                                                                            "x": 10,
-                                                                                                                            "y": 20
-                                                                                                                        }
-                                                                                                                    },
-                                                                                                                    "children": {
-                                                                                                                        "new": [
-                                                                                                                            {
-                                                                                                                                "type": "CCLabelBMFont",
-                                                                                                                                "id": "username-6-Bluesky",
-                                                                                                                                "attributes": {
-                                                                                                                                    "text": "@cyanflower.bsky.social",
-                                                                                                                                    "scale": 2,
-                                                                                                                                    "anchor-point": {
-                                                                                                                                        "x": 0,
-                                                                                                                                        "y": 0.5
-                                                                                                                                    },
-                                                                                                                                    "position": {
-                                                                                                                                        "x": 55,
-                                                                                                                                        "y": 25
-                                                                                                                                    },
-                                                                                                                                    "color": {
-                                                                                                                                        "r": 0,
-                                                                                                                                        "g": 195,
-                                                                                                                                        "b": 255
-                                                                                                                                    }
-                                                                                                                                }
-                                                                                                                            },
-                                                                                                                            {
-                                                                                                                                "type": "CCSprite",
-                                                                                                                                "id": "logo-6-Bluesky",
-                                                                                                                                "attributes": {
-                                                                                                                                    "sprite": "ui/logo_icons/bluesky200x.png",
-                                                                                                                                    "anchor-point": {
-                                                                                                                                        "x": 0,
-                                                                                                                                        "y": 0.5
-                                                                                                                                    },
-                                                                                                                                    "position": {
-                                                                                                                                        "x": 0,
-                                                                                                                                        "y": 25
-                                                                                                                                    }
-                                                                                                                                }
-                                                                                                                            }
-                                                                                                                        ]
-                                                                                                                    },
-                                                                                                                    "event": {
-                                                                                                                        "on-activate": {
-                                                                                                                            "attributes": {
-                                                                                                                                "link": "https://bsky.app/profile/cyanflower.bsky.social"
-                                                                                                                            }
-                                                                                                                        }
-                                                                                                                    }
                                                                                                                 }
                                                                                                             ]
                                                                                                         }
@@ -3255,7 +3121,7 @@
                                                                                                             "position": {
                                                                                                                 "anchor": "left",
                                                                                                                 "x": 118.0,
-                                                                                                                "y": 115
+                                                                                                                "y": 75
                                                                                                             },
                                                                                                             "color": {
                                                                                                                 "r": 0,
@@ -3384,14 +3250,14 @@
                                                                                                         "type": "CCLabelBMFont",
                                                                                                         "id": "title-6",
                                                                                                         "attributes": {
-                                                                                                            "text": "Links:",
+                                                                                                            "text": "No other links provided",
                                                                                                             "anchor-point": {
                                                                                                                 "x": 0,
                                                                                                                 "y": 0.5
                                                                                                             },
                                                                                                             "position": {
                                                                                                                 "x": 10,
-                                                                                                                "y": 60
+                                                                                                                "y": 20
                                                                                                             }
                                                                                                         }
                                                                                                     }
@@ -3718,7 +3584,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-collab-n-7",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "13",
+                                                                                                                        "text": "14",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -6003,7 +5869,7 @@
                                                                                                 "sprite": "GJ_square04.png",
                                                                                                 "popup-size": {
                                                                                                     "width": 336,
-                                                                                                    "height": 150
+                                                                                                    "height": 170
                                                                                                 },
                                                                                                 "show": true
                                                                                             },
@@ -6016,7 +5882,7 @@
                                                                                                             "ignore-anchor-pos": false,
                                                                                                             "content-size": {
                                                                                                                 "width": 336,
-                                                                                                                "height": 150
+                                                                                                                "height": 170
                                                                                                             },
                                                                                                             "position": {
                                                                                                                 "anchor": "center",
@@ -6035,7 +5901,7 @@
                                                                                                                         "base-scale": 1.4,
                                                                                                                         "position": {
                                                                                                                             "x": 281,
-                                                                                                                            "y": 85
+                                                                                                                            "y": 105
                                                                                                                         }
                                                                                                                     },
                                                                                                                     "event": {
@@ -6064,6 +5930,73 @@
                                                                                                                             }
                                                                                                                         ]
                                                                                                                     }
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "type": "CCMenuItemSpriteExtra",
+                                                                                                                    "id": "link-14-Twitter",
+                                                                                                                    "attributes": {
+                                                                                                                        "scale": 0.4,
+                                                                                                                        "base-scale": 0.4,
+                                                                                                                        "content-size": {
+                                                                                                                            "width": 500,
+                                                                                                                            "height": 50
+                                                                                                                        },
+                                                                                                                        "anchor-point": {
+                                                                                                                            "x": 0,
+                                                                                                                            "y": 0.5
+                                                                                                                        },
+                                                                                                                        "position": {
+                                                                                                                            "x": 10,
+                                                                                                                            "y": 20
+                                                                                                                        }
+                                                                                                                    },
+                                                                                                                    "children": {
+                                                                                                                        "new": [
+                                                                                                                            {
+                                                                                                                                "type": "CCLabelBMFont",
+                                                                                                                                "id": "username-14-Twitter",
+                                                                                                                                "attributes": {
+                                                                                                                                    "text": "@lwtuseater",
+                                                                                                                                    "scale": 2,
+                                                                                                                                    "anchor-point": {
+                                                                                                                                        "x": 0,
+                                                                                                                                        "y": 0.5
+                                                                                                                                    },
+                                                                                                                                    "position": {
+                                                                                                                                        "x": 55,
+                                                                                                                                        "y": 25
+                                                                                                                                    },
+                                                                                                                                    "color": {
+                                                                                                                                        "r": 0,
+                                                                                                                                        "g": 195,
+                                                                                                                                        "b": 255
+                                                                                                                                    }
+                                                                                                                                }
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "type": "CCSprite",
+                                                                                                                                "id": "logo-14-Twitter",
+                                                                                                                                "attributes": {
+                                                                                                                                    "sprite": "ui/logo_icons/twitter200x.png",
+                                                                                                                                    "anchor-point": {
+                                                                                                                                        "x": 0,
+                                                                                                                                        "y": 0.5
+                                                                                                                                    },
+                                                                                                                                    "position": {
+                                                                                                                                        "x": 0,
+                                                                                                                                        "y": 25
+                                                                                                                                    }
+                                                                                                                                }
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    },
+                                                                                                                    "event": {
+                                                                                                                        "on-activate": {
+                                                                                                                            "attributes": {
+                                                                                                                                "link": "https://twitter.com/lwtuseater"
+                                                                                                                            }
+                                                                                                                        }
+                                                                                                                    }
                                                                                                                 }
                                                                                                             ]
                                                                                                         }
@@ -6080,7 +6013,7 @@
                                                                                                             "position": {
                                                                                                                 "anchor": "left",
                                                                                                                 "x": 118.0,
-                                                                                                                "y": 75
+                                                                                                                "y": 95
                                                                                                             },
                                                                                                             "color": {
                                                                                                                 "r": 0,
@@ -6185,7 +6118,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-playtest-n-14",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "1200",
+                                                                                                                        "text": "1207",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -6209,14 +6142,14 @@
                                                                                                         "type": "CCLabelBMFont",
                                                                                                         "id": "title-14",
                                                                                                         "attributes": {
-                                                                                                            "text": "No other links provided",
+                                                                                                            "text": "Links:",
                                                                                                             "anchor-point": {
                                                                                                                 "x": 0,
                                                                                                                 "y": 0.5
                                                                                                             },
                                                                                                             "position": {
                                                                                                                 "x": 10,
-                                                                                                                "y": 20
+                                                                                                                "y": 40
                                                                                                             }
                                                                                                         }
                                                                                                     }
@@ -7527,7 +7460,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-playtest-n-18",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "254",
+                                                                                                                        "text": "257",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -7952,7 +7885,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-collab-n-19",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "0",
+                                                                                                                        "text": "1",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -8719,7 +8652,7 @@
                                                                                             "type": "Popup",
                                                                                             "id": "credit-22-popup",
                                                                                             "attributes": {
-                                                                                                "title": "KetsuTT",
+                                                                                                "title": "exiiTT",
                                                                                                 "font": "bigFont.fnt",
                                                                                                 "sprite": "GJ_square04.png",
                                                                                                 "popup-size": {
@@ -8811,7 +8744,7 @@
                                                                                                                                 "type": "CCLabelBMFont",
                                                                                                                                 "id": "username-22-TikTok",
                                                                                                                                 "attributes": {
-                                                                                                                                    "text": "@_ketsutt",
+                                                                                                                                    "text": "@_exicx",
                                                                                                                                     "scale": 2,
                                                                                                                                     "anchor-point": {
                                                                                                                                         "x": 0,
@@ -8848,7 +8781,7 @@
                                                                                                                     "event": {
                                                                                                                         "on-activate": {
                                                                                                                             "attributes": {
-                                                                                                                                "link": "https://www.tiktok.com/@_ketsutt"
+                                                                                                                                "link": "https://www.tiktok.com/@_exicx"
                                                                                                                             }
                                                                                                                         }
                                                                                                                     }
@@ -9020,7 +8953,7 @@
                                                                         "type": "CCLabelBMFont",
                                                                         "id": "nameplate-22",
                                                                         "attributes": {
-                                                                            "text": "KetsuTT",
+                                                                            "text": "exiiTT",
                                                                             "font": "goldFont.fnt",
                                                                             "position": {
                                                                                 "x": 218,
@@ -11996,7 +11929,7 @@
                                                                         "id": "line-0",
                                                                         "attributes": {
                                                                             "text": "Sponsors",
-                                                                            "scale": 0.9,
+                                                                            "scale": 0.85,
                                                                             "anchor-point": {
                                                                                 "x": 0,
                                                                                 "y": 0.5
@@ -12012,14 +11945,14 @@
                                                                         "id": "line-1",
                                                                         "attributes": {
                                                                             "text": "- Dibbj (50\u20aceuro donation)",
-                                                                            "scale": 0.9,
+                                                                            "scale": 0.85,
                                                                             "anchor-point": {
                                                                                 "x": 0,
                                                                                 "y": 0.5
                                                                             },
                                                                             "position": {
                                                                                 "x": 43,
-                                                                                "y": 200
+                                                                                "y": 201
                                                                             }
                                                                         }
                                                                     },
@@ -12028,14 +11961,14 @@
                                                                         "id": "line-2",
                                                                         "attributes": {
                                                                             "text": "- JigglypuffGD ($20 donation)",
-                                                                            "scale": 0.9,
+                                                                            "scale": 0.85,
                                                                             "anchor-point": {
                                                                                 "x": 0,
                                                                                 "y": 0.5
                                                                             },
                                                                             "position": {
                                                                                 "x": 43,
-                                                                                "y": 185
+                                                                                "y": 187
                                                                             }
                                                                         }
                                                                     },
@@ -12044,14 +11977,14 @@
                                                                         "id": "line-4",
                                                                         "attributes": {
                                                                             "text": "Project Management",
-                                                                            "scale": 0.9,
+                                                                            "scale": 0.85,
                                                                             "anchor-point": {
                                                                                 "x": 0,
                                                                                 "y": 0.5
                                                                             },
                                                                             "position": {
                                                                                 "x": 43,
-                                                                                "y": 155
+                                                                                "y": 159
                                                                             }
                                                                         }
                                                                     },
@@ -12060,14 +11993,14 @@
                                                                         "id": "line-5",
                                                                         "attributes": {
                                                                             "text": "- Luar77",
-                                                                            "scale": 0.9,
+                                                                            "scale": 0.85,
                                                                             "anchor-point": {
                                                                                 "x": 0,
                                                                                 "y": 0.5
                                                                             },
                                                                             "position": {
                                                                                 "x": 43,
-                                                                                "y": 140
+                                                                                "y": 145
                                                                             }
                                                                         }
                                                                     },
@@ -12076,14 +12009,14 @@
                                                                         "id": "line-6",
                                                                         "attributes": {
                                                                             "text": "- ML500",
-                                                                            "scale": 0.9,
+                                                                            "scale": 0.85,
                                                                             "anchor-point": {
                                                                                 "x": 0,
                                                                                 "y": 0.5
                                                                             },
                                                                             "position": {
                                                                                 "x": 43,
-                                                                                "y": 125
+                                                                                "y": 131
                                                                             }
                                                                         }
                                                                     },
@@ -12092,30 +12025,46 @@
                                                                         "id": "line-7",
                                                                         "attributes": {
                                                                             "text": "- Sorao",
-                                                                            "scale": 0.9,
+                                                                            "scale": 0.85,
                                                                             "anchor-point": {
                                                                                 "x": 0,
                                                                                 "y": 0.5
                                                                             },
                                                                             "position": {
                                                                                 "x": 43,
-                                                                                "y": 110
+                                                                                "y": 117
                                                                             }
                                                                         }
                                                                     },
                                                                     {
                                                                         "type": "CCLabelBMFont",
-                                                                        "id": "line-11",
+                                                                        "id": "line-9",
                                                                         "attributes": {
-                                                                            "text": "Individual icon credits and notes can be found in the README.md",
-                                                                            "scale": 0.9,
+                                                                            "text": "Title font",
+                                                                            "scale": 0.85,
                                                                             "anchor-point": {
-                                                                                "x": 0.5,
+                                                                                "x": 0,
                                                                                 "y": 0.5
                                                                             },
                                                                             "position": {
-                                                                                "x": 218,
-                                                                                "y": 55
+                                                                                "x": 43,
+                                                                                "y": 89
+                                                                            }
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "type": "CCLabelBMFont",
+                                                                        "id": "line-10",
+                                                                        "attributes": {
+                                                                            "text": "- Exetric",
+                                                                            "scale": 0.85,
+                                                                            "anchor-point": {
+                                                                                "x": 0,
+                                                                                "y": 0.5
+                                                                            },
+                                                                            "position": {
+                                                                                "x": 43,
+                                                                                "y": 75
                                                                             }
                                                                         }
                                                                     },
@@ -12123,15 +12072,15 @@
                                                                         "type": "CCLabelBMFont",
                                                                         "id": "line-12",
                                                                         "attributes": {
-                                                                            "text": "file present in the zip (for easier search with CTRL + F)",
-                                                                            "scale": 0.9,
+                                                                            "text": "Individual icon credits and notes can be found in the README.md",
+                                                                            "scale": 0.85,
                                                                             "anchor-point": {
                                                                                 "x": 0.5,
                                                                                 "y": 0.5
                                                                             },
                                                                             "position": {
                                                                                 "x": 218,
-                                                                                "y": 40
+                                                                                "y": 44
                                                                             }
                                                                         }
                                                                     },
@@ -12139,8 +12088,24 @@
                                                                         "type": "CCLabelBMFont",
                                                                         "id": "line-13",
                                                                         "attributes": {
+                                                                            "text": "file present in the zip (for easier search with CTRL + F)",
+                                                                            "scale": 0.85,
+                                                                            "anchor-point": {
+                                                                                "x": 0.5,
+                                                                                "y": 0.5
+                                                                            },
+                                                                            "position": {
+                                                                                "x": 218,
+                                                                                "y": 30
+                                                                            }
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "type": "CCLabelBMFont",
+                                                                        "id": "line-14",
+                                                                        "attributes": {
                                                                             "text": "Social media logo icons",
-                                                                            "scale": 0.9,
+                                                                            "scale": 0.85,
                                                                             "anchor-point": {
                                                                                 "x": 0,
                                                                                 "y": 0.5
@@ -12153,49 +12118,33 @@
                                                                     },
                                                                     {
                                                                         "type": "CCLabelBMFont",
-                                                                        "id": "line-14",
-                                                                        "attributes": {
-                                                                            "text": "- Bugpesto",
-                                                                            "scale": 0.9,
-                                                                            "anchor-point": {
-                                                                                "x": 0,
-                                                                                "y": 0.5
-                                                                            },
-                                                                            "position": {
-                                                                                "x": 243,
-                                                                                "y": 200
-                                                                            }
-                                                                        }
-                                                                    },
-                                                                    {
-                                                                        "type": "CCLabelBMFont",
                                                                         "id": "line-15",
                                                                         "attributes": {
-                                                                            "text": "- Luar77",
-                                                                            "scale": 0.9,
+                                                                            "text": "- Bugpesto",
+                                                                            "scale": 0.85,
                                                                             "anchor-point": {
                                                                                 "x": 0,
                                                                                 "y": 0.5
                                                                             },
                                                                             "position": {
                                                                                 "x": 243,
-                                                                                "y": 185
+                                                                                "y": 201
                                                                             }
                                                                         }
                                                                     },
                                                                     {
                                                                         "type": "CCLabelBMFont",
-                                                                        "id": "line-17",
+                                                                        "id": "line-16",
                                                                         "attributes": {
-                                                                            "text": "Title font",
-                                                                            "scale": 0.9,
+                                                                            "text": "- Luar77",
+                                                                            "scale": 0.85,
                                                                             "anchor-point": {
                                                                                 "x": 0,
                                                                                 "y": 0.5
                                                                             },
                                                                             "position": {
                                                                                 "x": 243,
-                                                                                "y": 155
+                                                                                "y": 187
                                                                             }
                                                                         }
                                                                     },
@@ -12203,31 +12152,31 @@
                                                                         "type": "CCLabelBMFont",
                                                                         "id": "line-18",
                                                                         "attributes": {
-                                                                            "text": "- Exetric",
-                                                                            "scale": 0.9,
+                                                                            "text": "Icon Garage Button",
+                                                                            "scale": 0.85,
                                                                             "anchor-point": {
                                                                                 "x": 0,
                                                                                 "y": 0.5
                                                                             },
                                                                             "position": {
                                                                                 "x": 243,
-                                                                                "y": 140
+                                                                                "y": 159
                                                                             }
                                                                         }
                                                                     },
                                                                     {
                                                                         "type": "CCLabelBMFont",
-                                                                        "id": "line-20",
+                                                                        "id": "line-19",
                                                                         "attributes": {
-                                                                            "text": "Other assets",
-                                                                            "scale": 0.9,
+                                                                            "text": "- KevgenGD",
+                                                                            "scale": 0.85,
                                                                             "anchor-point": {
                                                                                 "x": 0,
                                                                                 "y": 0.5
                                                                             },
                                                                             "position": {
                                                                                 "x": 243,
-                                                                                "y": 110
+                                                                                "y": 145
                                                                             }
                                                                         }
                                                                     },
@@ -12235,15 +12184,31 @@
                                                                         "type": "CCLabelBMFont",
                                                                         "id": "line-21",
                                                                         "attributes": {
-                                                                            "text": "- Luar77",
-                                                                            "scale": 0.9,
+                                                                            "text": "Other assets",
+                                                                            "scale": 0.85,
                                                                             "anchor-point": {
                                                                                 "x": 0,
                                                                                 "y": 0.5
                                                                             },
                                                                             "position": {
                                                                                 "x": 243,
-                                                                                "y": 95
+                                                                                "y": 117
+                                                                            }
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "type": "CCLabelBMFont",
+                                                                        "id": "line-22",
+                                                                        "attributes": {
+                                                                            "text": "- Luar77",
+                                                                            "scale": 0.85,
+                                                                            "anchor-point": {
+                                                                                "x": 0,
+                                                                                "y": 0.5
+                                                                            },
+                                                                            "position": {
+                                                                                "x": 243,
+                                                                                "y": 103
                                                                             }
                                                                         }
                                                                     }
