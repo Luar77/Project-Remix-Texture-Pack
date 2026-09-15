@@ -1,5 +1,5 @@
-# Project Remix Texture Pack (version 1.0.0-beta)
-Texture pack collab, featuring over 30 people, that took over 15 months to finish.
+# Project Remix Texture Pack (version 1.0.0)
+Texture pack collab, featuring over 30 people, that took over 18 months to finish.
 Every icon in the game has been remade from scratch in the styles of everyone who participated.
 
 This was hosted on the [Master's World discord server](https://discord.gg/tFUyJw5), with organization provided via the Jones Bot by Luar77 (which took just as long to develop), and quality assurance/project management by the admin team (ML500, Luar77, Sorao).
@@ -38,9 +38,7 @@ Apparently some people were really insisting on helping with the development cos
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
 - cyanflower           (69 icons, 4 of those being collabs) + 4 collabs
-	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
-	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- Sharkcrome           (63 icons, 4 of those being collabs) + 9 collabs
+- Sharkcrome           (63 icons, 5 of those being collabs) + 9 collabs
 	- [@Sharkcrome](https://www.youtube.com/@Sharkcrome) on YouTube
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
 - Aleiz21              (66 icons, 7 of those being collabs) + 4 collabs
@@ -59,14 +57,15 @@ Apparently some people were really insisting on helping with the development cos
 - CraZyboy6484         (31 icons) + 1 collab
 	- [liamlocoman](https://liamlocoman.newgrounds.com) on Newgrounds
 - Dibbj                (28 icons, 3 of those being collabs) + 9 collabs
+	- [@lwtuseater](https://twitter.com/lwtuseater) on Twitter
 - Sorao                (24 icons, 5 of those being collabs) + 3 collabs
 - AngelozDD            (19 icons, 3 of those being collabs) + 9 collabs
 - AlexanderX1ta        (20 icons, 1 of those being collabs) + 2 collabs
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
-- Luar77               (17 icons, 4 of those being collabs) + 1 collab
+- luar77               (17 icons, 4 of those being collabs) + 1 collab
 	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
 	- [Luar77](https://github.com/Luar77) on GitHub
-- Exetric              (11 icons)
+- Exetric              (11 icons) + 1 collab
 	- [@Exetric](https://twitter.com/Exetric) on Twitter
 	- https://www.ehazel.com/
 	- [EthanHazel](https://github.com/EthanHazel) on GitHub
@@ -74,8 +73,8 @@ Apparently some people were really insisting on helping with the development cos
 - J3anC4rlo            (8 icons, 1 of those being collabs) + 1 collab
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
-- KetsuTT              (10 icons, 6 of those being collabs) + 1 collab
-	- [@_ketsutt](https://www.tiktok.com/@_ketsutt) on TikTok
+- exiiTT               (10 icons, 6 of those being collabs) + 1 collab
+	- [@_exicx](https://www.tiktok.com/@_exicx) on TikTok
 - Hydr4ze              (5 icons)
 - TheRare5             (5 icons)
 - ReenRN               (5 icons)
