@@ -1,5 +1,5 @@
-# Project Remix Texture Pack (version 1.0.0-beta)
-After over 15 months of work between 33 people, we present a complete design revamp of every icon in the game. Available in high and medium quality.
+# Project Remix Texture Pack (version 1.0.0)
+After over 18 months of work between 33 people, we present a complete design revamp of every icon in the game. Available in high and medium quality.
 
 Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, respectively, to help cover hosting costs of the project.
 
@@ -30,9 +30,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
 - cyanflower           (69 icons, 4 of those being collabs) + 4 collabs
-	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
-	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- Sharkcrome           (63 icons, 4 of those being collabs) + 9 collabs
+- Sharkcrome           (63 icons, 5 of those being collabs) + 9 collabs
 	- [@Sharkcrome](https://www.youtube.com/@Sharkcrome) on YouTube
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
 - Aleiz21              (66 icons, 7 of those being collabs) + 4 collabs
@@ -51,14 +49,15 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - CraZyboy6484         (31 icons) + 1 collab
 	- [liamlocoman](https://liamlocoman.newgrounds.com) on Newgrounds
 - Dibbj                (28 icons, 3 of those being collabs) + 9 collabs
+	- [@lwtuseater](https://twitter.com/lwtuseater) on Twitter
 - Sorao                (24 icons, 5 of those being collabs) + 3 collabs
 - AngelozDD            (19 icons, 3 of those being collabs) + 9 collabs
 - AlexanderX1ta        (20 icons, 1 of those being collabs) + 2 collabs
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
-- Luar77               (17 icons, 4 of those being collabs) + 1 collab
+- luar77               (17 icons, 4 of those being collabs) + 1 collab
 	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
 	- [Luar77](https://github.com/Luar77) on GitHub
-- Exetric              (11 icons)
+- Exetric              (11 icons) + 1 collab
 	- [@Exetric](https://twitter.com/Exetric) on Twitter
 	- https://www.ehazel.com/
 	- [EthanHazel](https://github.com/EthanHazel) on GitHub
@@ -66,8 +65,8 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - J3anC4rlo            (8 icons, 1 of those being collabs) + 1 collab
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
-- KetsuTT              (10 icons, 6 of those being collabs) + 1 collab
-	- [@_ketsutt](https://www.tiktok.com/@_ketsutt) on TikTok
+- exiiTT               (10 icons, 6 of those being collabs) + 1 collab
+	- [@_exicx](https://www.tiktok.com/@_exicx) on TikTok
 - Hydr4ze              (5 icons)
 - TheRare5             (5 icons)
 - ReenRN               (5 icons)
@@ -134,7 +133,7 @@ cube 11:
 
 cube 12:
 - By cyanflower.
-- This cube’s redesign is in reference to cyanflower’s “Manipulative Spectre” character, given it shares a somewhat similar face to the original cube 12.
+- Ghoulish!.
 
 cube 13:
 - By cyanflower.
@@ -263,7 +262,7 @@ cube 49:
 - The new shape references the look of the Super Mario Bros (NES) mushroom, with the spots also being reference-accurate.
 
 cube 50:
-- By Luar77.
+- By luar77.
 - This is Asper, a mascot character from Build Battles. Coming soon™️.
 
 cube 51:
@@ -425,7 +424,7 @@ cube 97:
 - By AsRenCL.
 
 cube 98:
-- By Luar77.
+- By luar77.
 
 cube 99:
 - By Sorao.
@@ -678,7 +677,7 @@ cube 171:
 
 cube 172:
 - By AlexisDrawz.
-- In Collab W. KetsuTT.
+- In Collab W. exiiTT.
 
 cube 173:
 - By bugpesto.
@@ -709,7 +708,7 @@ cube 180:
 - By RetroAdvance64.
 
 cube 181:
-- By KetsuTT.
+- By exiiTT.
 
 cube 182:
 - By bugpesto.
@@ -815,7 +814,7 @@ cube 211:
 - By Drian114.
 
 cube 212:
-- By KetsuTT.
+- By exiiTT.
 
 cube 213:
 - By ML500.
@@ -872,7 +871,7 @@ cube 229:
 - References Sackboy from LittleBigPlanet. Collab with RetroAdvance64!.
 
 cube 230:
-- By Luar77.
+- By luar77.
 
 cube 231:
 - By JigglypuffGD.
@@ -988,7 +987,7 @@ cube 262:
 - By AlexanderX1ta.
 
 cube 263:
-- By Luar77.
+- By luar77.
 
 cube 264:
 - By KevgenGD.
@@ -1506,7 +1505,7 @@ cube 411:
 - By AlexanderX1ta.
 
 cube 412:
-- By KetsuTT.
+- By exiiTT.
 - Collaborated with RetroAdvance64. thank you for helping me with this bto.
 
 cube 413:
@@ -1514,7 +1513,7 @@ cube 413:
 
 cube 414:
 - By cyanflower.
-- JamAttack's cube, sometimes referred to as Jamit. Originally created for them by cyanflower and directly based off their persona/mascot character, one of the most notable creator-specific cubes for following Geometry Dash's art style.
+- JamAttack's cube, sometimes referred to as Jamit. Originally created for them as fanart and directly based off their persona/mascot character.
 
 cube 415:
 - By Hydr4ze.
@@ -1537,7 +1536,7 @@ cube 420:
 - Collect My Pages.
 
 cube 421:
-- By Luar77.
+- By luar77.
 
 cube 422:
 - By airiLmao.
@@ -1929,7 +1928,7 @@ ship 50:
 - By Drian114.
 
 ship 51:
-- By Luar77.
+- By luar77.
 - Based on these scissors my grandma has.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ship_51(1).png)
 
@@ -2181,7 +2180,7 @@ ship 121:
 - Collab with Dibbj.
 
 ship 122:
-- By Luar77.
+- By luar77.
 
 ship 123:
 - By RetroAdvance64.
@@ -2254,7 +2253,7 @@ ship 141:
 - By Dibbj.
 
 ship 142:
-- By Luar77.
+- By luar77.
 - Reference to the whale present in the level "TopiaTopia" by Dibbj (also the creator of the icon this replaces!) and Luar77. Its name is "Waleia".
 
 ship 143:
@@ -2410,7 +2409,7 @@ ball 17:
 
 ball 18:
 - By cyanflower.
-- Changed to a ball directly based on the Cyclones from the mobile game The Battle Cats, specifically the Black Cyclone.
+- Changed to a ball directly based on the Cyclones from the mobile game The Battle Cats, specifically the Dark Cyclone.
 - ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1387088174324514917/E_070.png?ex=685c1207&is=685ac087&hm=ec3eb2805153870ef54a6257d24e3c3e42857098132b8c61e96c1e762380af63&=&format=webp&quality=lossless&width=550&height=585)
 
 ball 19:
@@ -2602,10 +2601,10 @@ ball 74:
 
 ball 75:
 - By cyanflower.
-- A basic redesign of the original ball that changes the expression to be anime-esque, also in reference to older internet art tropes.
+- A basic redesign of the original ball that changes the expression, also in reference to older internet art tropes.
 
 ball 76:
-- By Luar77.
+- By luar77.
 - Indirect reference to an original character from Luar77.
 
 ball 77:
@@ -2692,7 +2691,7 @@ ball 101:
 - By AlexisDrawz.
 
 ball 102:
-- By Luar77.
+- By luar77.
 - Collab with ML500.
 
 ball 103:
@@ -2797,7 +2796,7 @@ ufo 14:
 - Collab with Sharkcrome.
 
 ufo 15:
-- By KetsuTT.
+- By exiiTT.
 - Collab with AsRenCL.
 
 ufo 16:
@@ -2855,7 +2854,7 @@ ufo 31:
 - A redesign of the UFO that keeps the original’s elements as faithfully as possible.
 
 ufo 32:
-- By KetsuTT.
+- By exiiTT.
 
 ufo 33:
 - By Aleiz21.
@@ -3186,7 +3185,7 @@ ufo 129:
 - By Aleiz21.
 
 ufo 130:
-- By Luar77.
+- By luar77.
 - Collab with Dibbj.
   Reference to the UBE™ from the level "TopiaTopia" by Dibbj and Luar77. UFO Booster Extension (UBE for short) is the official name of the piece that gets attached to the player's ufo (the thing this icon references), that allows the player to perform a longer jump when charged.
 - ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1385318707043242075/image.png?ex=6855a215&is=68545095&hm=20f80fd7a4f7ad7e048c3116eb75c4f382f9263816a11cffff1e3e8c957e85cb&=&format=webp&quality=lossless&width=523&height=394)
@@ -3401,7 +3400,7 @@ wave 43:
 
 wave 44:
 - By cyanflower.
-- Drops a single line from the original design to turn the letter into “V” instead. The idea for this redesign was not sparked by anything else.
+- Drops a single line from the original design to turn the letter into “V” instead.
 
 wave 45:
 - By bugpesto.
@@ -3466,7 +3465,7 @@ wave 61:
 - Collab with Dibbj — Ported from Master Pack.
 
 wave 62:
-- By Luar77.
+- By luar77.
 - Indirect reference to an original character from Luar77.
 
 wave 63:
@@ -3715,7 +3714,7 @@ robot 38:
 - Reworked the original icon to look more similar to the design of a Mechakoopa from Mario Bros.
 
 robot 39:
-- By KetsuTT.
+- By exiiTT.
 - Collab with ML500 (Thank you!).
 
 robot 40:
@@ -3749,7 +3748,7 @@ robot 47:
 - [Re-made by the original artist] -- "A bit clunky to get ideas around but it works".
 
 robot 48:
-- By KetsuTT.
+- By exiiTT.
 
 robot 49:
 - By RetroAdvance64.
@@ -3759,7 +3758,7 @@ robot 50:
 - By ML500.
 
 robot 51:
-- By Luar77.
+- By luar77.
 - Based on the Gutterman from ULTRAKILL.
 - ![reference_image_1](https://media.discordapp.net/attachments/824435035347615777/1385682646302199919/1920px-Concept_gutterman.png?ex=6856f507&is=6855a387&hm=f9d3a59fad2dc3288a0b9dd5da4252249c43f7a23f80b0deb4e1c5be5886f7b7&=&format=webp&quality=lossless&width=1834&height=800)
 
@@ -3791,7 +3790,7 @@ robot 58:
 - ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1447975627717214220/seven-splash.png?ex=693993e3&is=69384263&hm=473bade9a5e3991f71a6022f4c076368ef5e124c411525a70d7c6bcc5f6035ea&=&format=webp&quality=lossless&width=1421&height=800)
 
 robot 59:
-- By KetsuTT.
+- By exiiTT.
 - Collab with Alexisdrawz (Thank you!). This robot references the Maykr Slayer Skin from Doom Eternal.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/robot_59(1).png)
 
@@ -3865,7 +3864,7 @@ spider 13:
 - By TheRare5.
 
 spider 14:
-- By Luar77.
+- By luar77.
 
 spider 15:
 - By RetroAdvance64.
@@ -4003,7 +4002,7 @@ spider 53:
 - By NHJ.
 
 spider 54:
-- By KetsuTT.
+- By exiiTT.
 - The spider is a remix of the original and has an Egyptian theme, in this case I collaborated with RetroAdvance64. Thank you for helping me with this bro.
 
 spider 55:
@@ -4110,7 +4109,7 @@ swing 13:
 - By Drian114.
 
 swing 14:
-- By Luar77.
+- By luar77.
 - Collab with Alexisdrawz. Design based on the Drone enemies from ULTRAKILL.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/swing_14(1).png)
 
@@ -4122,11 +4121,11 @@ swing 16:
 - By DanKy99.
 
 swing 17:
-- By Luar77.
+- By luar77.
 - Reference to an original character from Luar77.
 
 swing 18:
-- By KetsuTT.
+- By exiiTT.
 - Collab with AlexisDrawz (thanks). Refers to a Kirby variant in the gladiator or warrior style games.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/swing_18(1).png)
 
@@ -4229,7 +4228,7 @@ jetpack 3:
 - By NHJ.
 
 jetpack 4:
-- By Luar77.
+- By luar77.
 - Collab with NHJ. Based on the character V1 from ULTRAKILL.
 - ![reference_image_1](https://media.discordapp.net/attachments/824435035347615777/1381585911585968178/1024px-Concept_v1_ortho_armless.png?ex=68480da5&is=6846bc25&hm=12cf1481ec2e7f40a58a6506c52c1d491f2b6754182aa0a478b7359e284fb3ef&=&format=webp&quality=lossless&width=1126&height=930)
 
